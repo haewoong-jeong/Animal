@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\ClassTest\ClassTest\bin\Debug\netcoreapp2.2\ClassTest.deps.json
+C:\Users\Owner\source\repos\ClassTest\ClassTest\bin\Debug\netcoreapp2.2\ClassTest.runtimeconfig.json
+C:\Users\Owner\source\repos\ClassTest\ClassTest\bin\Debug\netcoreapp2.2\ClassTest.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\ClassTest\ClassTest\bin\Debug\netcoreapp2.2\ClassTest.dll
+C:\Users\Owner\source\repos\ClassTest\ClassTest\bin\Debug\netcoreapp2.2\ClassTest.pdb
+C:\Users\Owner\source\repos\ClassTest\ClassTest\obj\Debug\netcoreapp2.2\ClassTest.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\ClassTest\ClassTest\obj\Debug\netcoreapp2.2\ClassTest.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\ClassTest\ClassTest\obj\Debug\netcoreapp2.2\ClassTest.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\ClassTest\ClassTest\obj\Debug\netcoreapp2.2\ClassTest.AssemblyInfo.cs
+C:\Users\Owner\source\repos\ClassTest\ClassTest\obj\Debug\netcoreapp2.2\ClassTest.dll
+C:\Users\Owner\source\repos\ClassTest\ClassTest\obj\Debug\netcoreapp2.2\ClassTest.pdb
